@@ -1,3 +1,5 @@
+//Dhrushi Ramani
+//92500588001
 #include<stdio.h>
 #define MAX 3
 
